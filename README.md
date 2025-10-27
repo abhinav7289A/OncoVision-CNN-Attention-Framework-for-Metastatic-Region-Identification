@@ -132,8 +132,6 @@ Stable by **Epoch 9**, with minimal overfitting due to regularization and early 
 
 Grad-CAM visualizations highlight **tumor clusters** in metastatic patches, confirming the model’s focus on clinically relevant regions.
 
-*(Placeholder: Add Grad-CAM images and training curves here)*
-
 ---
 
 ## 🧩 Repository Structure
